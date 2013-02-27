@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:attribute name="state_enabled" type="xs:string"/>
+  <xs:attribute name="drawable" type="xs:string"/>
+  <xs:attribute name="state_pressed" type="xs:string"/>
+  <xs:attribute name="state_focused" type="xs:string"/>
+  <xs:attribute name="state_hovered" type="xs:string"/>
+  <xs:attribute name="state_checkable" type="xs:string"/>
+  <xs:attribute name="state_checked" type="xs:string"/>
+  <xs:attribute name="state_activated" type="xs:string"/>
+  <xs:attribute name="state_window_focused" type="xs:string"/>
+  <xs:attribute name="state_selected" type="xs:string"/>
+</xs:schema>
